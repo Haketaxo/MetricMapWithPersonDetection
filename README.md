@@ -60,3 +60,12 @@ Para la ejecución de nuestro programa:
 	4.- Se le desplegará una interfaz, de clic en "Iniciar" para que se abra una 	ventana con su cámara.
 	5.- Presione "q" para salir. 
 	6.- En la interfaz contiene un apartado de evaluación de la presición, ingrese las 	coordenadas que detecto la camara al momento de la ejecución del programa y de 	click en "Evaluar", se le desplegara la presión que se obtuvo con respecto a la 	referencia que se tiene. 
+
+
+ Para referencias de YoloV4 visite el siguiente sitio:
+ 
+https://github.com/kiyoshiiriemon/yolov4_darknet
+
+ Para la estimacion de distancias visite el siguiente sitio:
+
+ https://barcelonageeks.com/estimacion-de-distancia-en-tiempo-real-usando-opencv-python/
